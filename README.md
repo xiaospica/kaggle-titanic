@@ -6,4 +6,4 @@ kaggle titanic solution
 3. A very beginning view of Titanic problem by Ju Liu, 
   here is the video link https://www.youtube.com/watch?v=fS70iptz-XU&list=PLDcsjLisrh_SUwcn8yRxc7AqYoeHKHzsv&index=16&t=0s, 
   here is the github link https://github.com/xiaospica/jack-dies
-4. 
+4. A introduction of data processing with Pandas by Mike Bernico, https://www.youtube.com/watch?v=VavyFWb-r-8
